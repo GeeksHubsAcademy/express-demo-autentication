@@ -1,0 +1,13 @@
+GET http://localhost:3000/ping
+
+
+###
+
+
+POST http://localhost:3000/register
+Content-Type:application/json
+
+{
+   "email":"juan@geekshubs.com",
+   "password":"12345"
+}
