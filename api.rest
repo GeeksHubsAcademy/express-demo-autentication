@@ -22,3 +22,14 @@ Content-Type:application/json
    "email":"juan@geekshubs.com",
    "password":"12345"
 }
+
+###
+
+GET http://localhost:3000/me
+Authorization:c1c9b8c0-537c-44aa-a88e-6097e163083d
+
+
+###
+
+GET http://localhost:3000/logout
+Authorization:c1c9b8c0-537c-44aa-a88e-6097e163083d
