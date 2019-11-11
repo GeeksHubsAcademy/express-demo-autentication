@@ -8,8 +8,8 @@ POST http://localhost:3000/register
 Content-Type:application/json
 
 {
-   "email":"juan@geekshubs.com",
-   "password":"12345"
+   "email":"juan2@geekshubs.com",
+   "password":"A12345678!"
 }
 
 

@@ -4,6 +4,11 @@
       "email": "juan@geekshubs.com",
       "password": "12345",
       "id": "81b8453d-e941-42d7-97e2-90a5fc181e01"
+    },
+    {
+      "email": "juan2@geekshubs.com",
+      "password": "A12345678!",
+      "id": "07795f48-9a5b-4f57-a001-272042dd75b6"
     }
   ]
 }
