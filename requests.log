@@ -1,0 +1,14 @@
+GET /me
+GET /ping
+POST /register
+GET /me
+POST /login
+GET /ping
+POST /login
+GET /ping
+GET /ping
+POST /register
+POST /login
+POST /register
+POST /login
+GET /me
