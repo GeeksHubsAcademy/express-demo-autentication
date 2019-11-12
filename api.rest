@@ -26,10 +26,10 @@ Content-Type:application/json
 ###
 
 GET http://localhost:3000/me
-Authorization:c1c9b8c0-537c-44aa-a88e-6097e163083d
+Authorization:045fd291-ec73-4568-a57a-432c869f2ecf
 
 
 ###
 
 GET http://localhost:3000/logout
-Authorization:c1c9b8c0-537c-44aa-a88e-6097e163083d
+Authorization:045fd291-ec73-4568-a57a-432c869f2ecf
